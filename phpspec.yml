@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: gpstax
+        psr4_prefix: gpstax
+        src_path: app
